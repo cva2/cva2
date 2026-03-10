@@ -1,10 +1,26 @@
-سفشقف ةغ صثمؤخةث
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   
+<!-- START THE WELCOME -->
 <a href="https://github.com/Anas">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </a>
+<!-- END THE WELCOME -->
 
+<!-- START THE CODE TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
 </p>
@@ -12,12 +28,14 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/line-gradient.gif" width="100%">
 
 <br />
+<!-- END THE CODE TEXT -->
 
 
 ---
 </div>
 
 
+<!-- START THE PROJECT TABLE -->
 
 ### 📂 Engineering Projects & Roadmap
 
@@ -26,27 +44,12 @@
 | [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/) | [![ATM-System](https://img.shields.io/static/v1?label=&message=ATM-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/ATM-System) [![SuperMarket-System-V2](https://img.shields.io/static/v1?label=&message=SuperMarket-V2&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V2) [![SuperMarket-System-V1](https://img.shields.io/static/v1?label=&message=SuperMarket-V1&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V1) |
 | [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=CodeWars&logoColor=FFFFFF)](https://www.codewars.com/users/cva2) | [![CodeWars-Katas](https://img.shields.io/static/v1?label=&message=CodeWars-Katas-LVL6&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://www.codewars.com/users/cva2) |
 ---
+<!-- END THE PROJECT TABLE -->
 
-
-
-## 🚀 Connect with me
-
-<p align="center">
-<br />
-  
-<a href="https://www.facebook.com/share/18RHPNDFJi/?mibextid=wwXIfr" target="_black">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/a.cva2/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anas-hafez-0990b7385" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
-
-<br />
-</p>
 
 ---
+
+<!-- START THE LANGUAGES ICONS -->
 
 ## 💻 Tech Stack
 * **Languages:** C++, Java
@@ -73,6 +76,9 @@
   </tr>
 </table>
 
+<!-- END THE LANGUAGES ICONS -->
+
+
 ---
 
 ## 🏆 Problem Solving
@@ -80,24 +86,37 @@ I actively challenge myself on **CodeWars** to sharpen my algorithmic thinking a
 
 [![CodeWars Profile](https://www.codewars.com/users/cva2/badges/large)](https://www.codewars.com/users/cva2)
 
+
+
 ---
+
+
+<!-- START THE CONTACT ICONS -->
 
 ## 🚀 Connect with me
 
 <p align="center">
 <br />
-  
-<a href="https://www.facebook.com/share/18RHPNDFJi/?mibextid=wwXIfr" target="_black">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/18RHPNDFJi/?mibextid=wwXIfr" target="_blank">
+  <img src="https://img.icons8.com/nolan/64/facebook-new.png" width="55" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/a.cva2/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/nolan/64/instagram-new.png" width="55" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anas-hafez-0990b7385" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
-
+  <img src="https://img.icons8.com/nolan/64/linkedin.png" width="55" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:anas.ahmad.mohamed@gmail.com">
+  <img src="https://img.icons8.com/nolan/64/gmail-new.png" width="55" height="55" />
+</a>
 <br />
 </p>
+
+<!-- END THE CONTACT ICONS -->
+
 
 
 
