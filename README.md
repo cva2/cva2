@@ -16,13 +16,13 @@
   
 <!-- START THE WELCOME -->
 <a href="https://github.com/Anas">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&fond=Lora&color=2196F3&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </a>
 <!-- END THE WELCOME -->
 
 <!-- START THE CODE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/line-gradient.gif" width="100%">
@@ -65,23 +65,29 @@
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
+      <br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
+      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="https://iconscout.com/icons/js" width="48" height="48" alt="JS Shield" />
+      <br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML
+      <br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS
+      <br>
     </td>
   </tr>
 </table>
 </div>
+
+
 
 <!-- END THE LANGUAGES ICONS -->
 
