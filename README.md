@@ -15,7 +15,7 @@
 
 <!-- START THE CODE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=2000&pause=1000&color=1b66a5&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=2000&pause=1000&color=1b66a5&center=true&vCenter=true&width=800&height=40&lines=Anas+ِAhmed+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/line-gradient.gif" width="100%">
