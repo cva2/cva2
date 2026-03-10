@@ -18,23 +18,13 @@
 
 
 
+### 📂 Engineering Projects & Roadmap
 
-
-
-
-<!--
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=100&lines=Anas+Ahmed;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Anas Ahmed Typing SVG" />
-
-<br />
-
-### Dedicated to mastering new technologies to build impactful projects that serve my religion and community.
-
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/) | [![ATM-System](https://img.shields.io/static/v1?label=&message=ATM-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/ATM-System) [![SuperMarket-System-V2](https://img.shields.io/static/v1?label=&message=SuperMarket-V2&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V2) [![SuperMarket-System-V1](https://img.shields.io/static/v1?label=&message=SuperMarket-V1&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V1) |
+| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=CodeWars&logoColor=FFFFFF)](https://www.codewars.com/users/cva2) | [![CodeWars-Katas](https://img.shields.io/static/v1?label=&message=CodeWars-Katas-LVL6&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://www.codewars.com/users/cva2) |
 ---
-
-</div>
--->
 
 
 
@@ -88,5 +78,25 @@
 I actively challenge myself on **CodeWars** to sharpen my algorithmic thinking and coding efficiency.
 
 [![CodeWars Profile](https://www.codewars.com/users/cva2/badges/large)](https://www.codewars.com/users/cva2)
+
+---
+
+## 🚀 Connect with me
+
+<p align="center">
+<br />
+  
+<a href="https://www.facebook.com/share/18RHPNDFJi/?mibextid=wwXIfr" target="_black">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/a.cva2/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anas-hafez-0990b7385" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
+
+<br />
+</p>
+
 
 
