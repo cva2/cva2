@@ -12,7 +12,6 @@
 
 <br />
 
-### Dedicated to mastering new technologies to build impactful projects that serve my faith and community.
 
 ---
 </div>
