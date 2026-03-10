@@ -12,6 +12,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   
 <!-- START THE WELCOME -->
@@ -65,23 +77,18 @@
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/js.png" width="48" height="48" alt="JS Shield" />
-      <br>JS
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
     </td>
   </tr>
 </table>
@@ -134,6 +141,12 @@ I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking &
 </p>
 
 <!-- END THE CONTACT ICONS -->
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-Hafez.Anas-Hafez&left_text=Profile%20Views&left_color=231f20&right_color=2196F3&style=flat-square" alt="Visitors" />
+</p>
+
 
 
 
