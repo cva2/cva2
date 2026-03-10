@@ -53,7 +53,7 @@
 
 ## 💻 Tech Stack
 * **Languages:** C++, Java
-* **Web Development:** HTML5, CSS3, JavaScript (Learning)
+* **Web Development:** HTML, CSS, JavaScript (Learning)
 
 <table>
   <tr>
@@ -67,11 +67,11 @@
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+      <br>CSS
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
 ---
 
 ## 🏆 Problem Solving
-I actively challenge myself on **CodeWars** to sharpen my algorithmic thinking and coding efficiency.
+I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking & Coding Efficiency.
 
 [![CodeWars Profile](https://www.codewars.com/users/cva2/badges/large)](https://www.codewars.com/users/cva2)
 
@@ -93,22 +93,22 @@ I actively challenge myself on **CodeWars** to sharpen my algorithmic thinking a
 
 <!-- START THE CONTACT ICONS -->
 
-## 🚀 Connect with me
+## 🚀 Connect With Me
 
 <p align="center">
 <br />
 <a href="https://www.facebook.com/share/18RHPNDFJi/?mibextid=wwXIfr" target="_blank">
   <img src="https://img.icons8.com/nolan/64/facebook-new.png" width="55" height="55" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/a.cva2/" target="_blank">
   <img src="https://img.icons8.com/nolan/64/instagram-new.png" width="55" height="55" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anas-hafez-0990b7385" target="_blank">
   <img src="https://img.icons8.com/nolan/64/linkedin.png" width="55" height="55" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:anas.ahmad.mohamed@gmail.com">
   <img src="https://img.icons8.com/nolan/64/gmail-new.png" width="55" height="55" />
 </a>
