@@ -1,40 +1,21 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--------------------------------->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+</p>
+<!--------------------------------->
 
 
 <div align="center">
   
 <!-- START THE WELCOME -->
 <a href="https://github.com/Anas">
-  <img src="https://capsule-render.vercel.app/api?type=waving&fond=Lora&color=2196F3&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&fond=Lora&color=0:0d1117,50:1b66a5,100:0d1117&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </a>
 <!-- END THE WELCOME -->
 
 <!-- START THE CODE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=2000&pause=1000&color=1b66a5&center=true&vCenter=true&width=800&height=40&lines=Anas+Hafez;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/line-gradient.gif" width="100%">
@@ -43,7 +24,13 @@
 <!-- END THE CODE TEXT -->
 
 
----
+<!--------------------------------->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+</p>
+<!--------------------------------->
+
+
 </div>
 
 
@@ -64,7 +51,12 @@
 <!-- END THE PROJECT TABLE -->
 
 
----
+<!--------------------------------->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+</p>
+<!--------------------------------->
+
 
 <!-- START THE LANGUAGES ICONS -->
 
@@ -99,7 +91,12 @@
 <!-- END THE LANGUAGES ICONS -->
 
 
----
+<!--------------------------------->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+</p>
+<!--------------------------------->
+
 
 ## 🏆 Problem Solving
 I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking & Coding Efficiency.
@@ -111,13 +108,18 @@ I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking &
 </p>
 
 
----
+<!--------------------------------->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+</p>
+<!--------------------------------->
+
 
 
 <!-- START THE CONTACT ICONS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=2196F3&center=true&vCenter=true&width=435&lines=CONNECT+WITH+ME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=CONNECT+WITH+ME" alt="Typing SVG" />
 </p>
 
 <p align="center">
