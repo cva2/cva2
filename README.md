@@ -72,8 +72,8 @@
       <br>
     </td>
     <td align="center" width="96">
-      <img src="https://iconscout.com/icons/js" width="48" height="48" alt="JS Shield" />
-      <br>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/js.png" width="48" height="48" alt="JS Shield" />
+      <br>JS
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -110,7 +110,7 @@ I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking &
 <!-- START THE CONTACT ICONS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=100000&color=2196F3&center=true&vCenter=true&width=435&lines=CONNECT+WITH+ME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=2196F3&center=true&vCenter=true&width=435&lines=CONNECT+WITH+ME" alt="Typing SVG" />
 </p>
 
 <p align="center">
