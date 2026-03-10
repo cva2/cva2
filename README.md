@@ -55,9 +55,6 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:anas.ahmad.mohamed@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" />
-</a>
 <br />
 </p>
 
