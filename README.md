@@ -39,11 +39,16 @@
 
 ### 📂 Engineering Projects & Roadmap
 
+  
+<div align="center">
+
 | 💻 **Technology** | 🚀 **Projects** |
-| - | - |
+| :--- | :--- |
 | [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://isocpp.org/) | [![ATM-System](https://img.shields.io/static/v1?label=&message=ATM-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/ATM-System) [![SuperMarket-System-V2](https://img.shields.io/static/v1?label=&message=SuperMarket-V2&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V2) [![SuperMarket-System-V1](https://img.shields.io/static/v1?label=&message=SuperMarket-V1&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Anas/SuperMarket-System-V1) |
 | [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=CodeWars&logoColor=FFFFFF)](https://www.codewars.com/users/cva2) | [![CodeWars-Katas](https://img.shields.io/static/v1?label=&message=CodeWars-Katas-LVL6&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://www.codewars.com/users/cva2) |
----
+
+</div>
+
 <!-- END THE PROJECT TABLE -->
 
 
@@ -55,6 +60,7 @@
 * **Languages:** C++, Java
 * **Web Development:** HTML, CSS, JavaScript (Learning)
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -75,6 +81,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <!-- END THE LANGUAGES ICONS -->
 
@@ -84,8 +91,11 @@
 ## 🏆 Problem Solving
 I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking & Coding Efficiency.
 
-[![CodeWars Profile](https://www.codewars.com/users/cva2/badges/large)](https://www.codewars.com/users/cva2)
-
+<p align="center">
+  <a href="https://www.codewars.com/users/cva2">
+    <img src="https://www.codewars.com/users/cva2/badges/large" alt="CodeWars Profile" />
+  </a>
+</p>
 
 
 ---
@@ -93,7 +103,9 @@ I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking &
 
 <!-- START THE CONTACT ICONS -->
 
-## 🚀 Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=100000&color=2196F3&center=true&vCenter=true&width=435&lines=CONNECT+WITH+ME" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <br />
