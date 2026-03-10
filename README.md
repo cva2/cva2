@@ -1,6 +1,32 @@
 <div align="center">
+  
+<a href="https://github.com/Anas">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=100&lines=Anas+Ahmed;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learner" alt="Anas Ahmed Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=120&lines=Anas+Ahmed;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Typing SVG" />
+</p>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/line-gradient.gif" width="100%">
+
+<br />
+
+### Dedicated to mastering new technologies to build impactful projects that serve my faith and community.
+
+---
+</div>
+
+
+
+
+
+
+
+<!--
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=100&lines=Anas+Ahmed;Computer+Engineering+Student;C%2B%2B+%26+Java+Developer;Front-end+Web+Learning" alt="Anas Ahmed Typing SVG" />
 
 <br />
 
@@ -9,6 +35,9 @@
 ---
 
 </div>
+-->
+
+
 
 ## 🚀 Connect with me
 
@@ -66,10 +95,4 @@ I actively challenge myself on **CodeWars** to sharpen my algorithmic thinking a
 
 [![CodeWars Profile](https://www.codewars.com/users/cva2/badges/large)](https://www.codewars.com/users/cva2)
 
----
 
-## 📂 Featured Projects
-* **ATM Simulation System (C++):** Focused on secure transaction logic and user session management.
-* **Supermarket Management System (C++):** Developed with advanced data handling and administrative roles.
-
----
