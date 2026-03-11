@@ -22,7 +22,7 @@
 
 <!--------------------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=5" />
 </p>
 <!--------------------------------->
 
@@ -49,7 +49,7 @@
 
 <!--------------------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=5" />
 </p>
 <!--------------------------------->
 
@@ -89,7 +89,7 @@
 
 <!--------------------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=5" />
 </p>
 <!--------------------------------->
 
@@ -106,14 +106,10 @@ I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking &
 
 <!--------------------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=5" />
 </p>
 <!--------------------------------->
-<!--------------------------------->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5:0d1117,50:1b66a5,95:0d1117&height=10" />
-</p>
-<!--------------------------------->
+
 
 
 
