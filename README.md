@@ -5,7 +5,7 @@
   
 <!-- START THE WELCOME -->
 <a href="https://github.com/Anas">
-  <img src="https://capsule-render.vercel.app/api?type=waving&fond=Lora&color=5:0d1117,50:1b66a5,95:0d1117&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&font=Lora&color=5:0d1117,50:1b66a5,95:0d1117&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=twinkle&fontAlignY=35&fontColor=B0E0E6" />
 </a>
 <!-- END THE WELCOME -->
 
