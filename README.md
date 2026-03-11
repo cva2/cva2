@@ -32,8 +32,9 @@
 
 <!-- START THE PROJECT TABLE -->
 
-### 📂 Engineering Projects & Roadmap
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Engineering+Projects" alt="Typing SVG" />
+</p>
   
 <div align="center">
 
@@ -56,9 +57,9 @@
 
 <!-- START THE LANGUAGES ICONS -->
 
-## 💻 Tech Stack
-* **Languages:** C++, Java
-* **Web Development:** HTML, CSS, JavaScript (Learning)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Technical+Skills" alt="Typing SVG" />
+</p>
 
 <div align="center">
 <table>
@@ -93,9 +94,11 @@
 </p>
 <!--------------------------------->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Problem+Solving" alt="Typing SVG" />
+</p>
+<p><h5 align="center"> I Actively Challenge Myself On <ud>CodeWars</ud> To Sharpen My Algorithmic Thinking & Coding Efficiency. </h5></p>
 
-## 🏆 Problem Solving
-I Actively Challenge Myself On **CodeWars** To Sharpen My Algorithmic Thinking & Coding Efficiency.
 
 <p align="center">
   <a href="https://www.codewars.com/users/cva2">
