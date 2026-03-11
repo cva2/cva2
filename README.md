@@ -33,7 +33,7 @@
 <!-- START THE PROJECT TABLE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Engineering+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=MY+PROJECTS" alt="Typing SVG" />
 </p>
   
 <div align="center">
@@ -58,7 +58,7 @@
 <!-- START THE LANGUAGES ICONS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Technical+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=TECHNICAL+SKILLS" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -95,7 +95,7 @@
 <!--------------------------------->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1&duration=1&repeat=false&color=1b66a5&center=true&vCenter=true&width=435&lines=PROBLEM+SOLVING" alt="Typing SVG" />
 </p>
 <p><h5 align="center"> I Actively Challenge Myself On <ud>CodeWars</ud> To Sharpen My Algorithmic Thinking & Coding Efficiency. </h5></p>
 
