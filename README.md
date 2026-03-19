@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-Hafez.Anas-Hafez&left_text=Profile%20Views&left_color=231f20&right_color=2196F3&style=flat-square" alt="Visitors" />
+</p>
 
 <div align="center">
   
@@ -144,9 +146,7 @@
 <!-- END THE CONTACT ICONS -->
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-Hafez.Anas-Hafez&left_text=Profile%20Views&left_color=231f20&right_color=2196F3&style=flat-square" alt="Visitors" />
-</p>
+
 
 
 
